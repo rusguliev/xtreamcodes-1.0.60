@@ -362,7 +362,7 @@ echo -e "${jeshile} └───────────────────
 echo " "
 #mkdir /home/admin/web/xtream.md/public_html
 #cd /home/admin/web/xtream.md/public_html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
-cd /home/admin/web/xtream.md/public_html && wget http://downloads.sourceforge.net/project/iptv-md/xtream/Xtream_Codes_v1.0.60_Nulled.zip && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /home/admin/web/xtream.md/public_html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /home/admin/web/xtream.md/public_html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
+cd /home/admin/web/xtream.md/public_html && wget http://trans.evotv.org/xtreamcodes/Xtream_Codes_v1.0.60_Nulled.zip && unzip Xtream_Codes_v1.0.60_Nulled.zip && cp /home/admin/web/xtream.md/public_html/downloads/iptv_panel_pro.zip /tmp && chmod a+x /tmp/iptv_panel_pro.zip && cp /home/admin/web/xtream.md/public_html/downloads/install_iptv_pro.php /root/ && cd /root && chmod a+x /root/install_iptv_pro.php && php install_iptv_pro.php
 chmod 775 /home/admin/web/xtream.md/public_html/Xtream_Codes_v1.0.60_Nulled.zip
 rm /home/admin/web/xtream.md/public_html/Xtream_Codes_v1.0.60_Nulled.zip
 cp /home/admin/web/xtream.md/public_html/downloads/iptv_panel_pro.zip /tmp
